@@ -1,7 +1,5 @@
-- 👋 Hola! Soy @DsignerX gustoen conocerte
-- 👀 Me interesa mucho conocer personas con buena actitud, e ideales de cambio :)
-- 🌱 Disfruto mucho aprender colectivamente...
-- 💞️ La vida es un sueño un poco más extenso...
+- 👋 Hola! Soy @DsignerX gusto en conocerte :D
+
 - 📫 dsignerx@gmail.com ...
 
 <!---
