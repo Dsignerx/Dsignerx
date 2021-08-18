@@ -1,6 +1,6 @@
 - 👋 Hola! Soy @DsignerX gusto en conocerte :D
 
-- 📫 dsignerx@gmail.com ...
+- 📫 andesignerx@gmail.com
 
 <!---
 Dsignerx/Dsignerx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
